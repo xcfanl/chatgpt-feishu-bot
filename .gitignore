@@ -1,0 +1,5 @@
+.env
+/dist
+/data
+/example
+/node_modules
