@@ -4,9 +4,12 @@
 - 支持格式为docx/doc/txt/md/mark/markdown/xlsx/xls/csv的文件直接拖入。
 - 支持图片直接拖入（分析内容），或粘贴后增加自定义提问内容。
 - 支持飞书文档云文档、电子表格（非多维表格）的识别和内容提取。（不支持多个链接）
-![image](https://github.com/user-attachments/assets/1b08b69a-1631-403f-9d11-618154491fd2)
-![image](https://github.com/user-attachments/assets/aa08f0dc-6671-41f5-8b29-8ae014b9bc96)
 
+云文档示例：
+![image](https://github.com/user-attachments/assets/aaf6d438-4b52-453a-8f45-03396c7d8c33)
+
+电子表格示例：
+![image](https://github.com/user-attachments/assets/aa08f0dc-6671-41f5-8b29-8ae014b9bc96)
 
 
 ## 先决条件
