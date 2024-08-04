@@ -9,6 +9,31 @@
 
 启动一个mongodb。
 
+### 飞书权限
+
+`docs:doc`
+
+`docs:document:import`
+
+`docx:document`
+
+`drive:export:readonly`
+
+`im:message`
+
+`im:message.p2p_msg`
+
+`im:message:send_as_bot`
+
+`im:resource`
+
+`sheets:spreadsheet`
+
+`tenant:tenant.domain:read`
+
+`tenant:tenant:readonly`
+
+
 ## 运行方式
 
 构建docker运行。
@@ -22,7 +47,7 @@
 
 `FEISHU_APP_SECRET`=
 
-### 飞书encrypt key
+### 飞书encrypt key，事件与回调中，加密策略配置
 
 `FEISHU_EK`=
 
